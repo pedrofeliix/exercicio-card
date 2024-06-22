@@ -1,0 +1,94 @@
+h2 {
+    font-family: Source Code Pro, sans-serif;
+}
+
+h3 {
+    font-family: Source Code Pro, sans-serif;
+}
+
+p {
+    font-family: Source Code Pro, sans-serif;
+}
+
+hr {
+    width: 291px;
+    border: 1px solid #c4c4c4;
+}   
+
+button {
+    font-family: Source Code Pro, sans-serif;
+}
+
+.card {
+    width: 342px;
+    height: 504px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.card-img {
+    width: 342px;
+    height: 222px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    background-color: #dedede;
+}
+
+.card-body .card-info h2 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    margin: 16px 0px 0px 24px;
+}
+
+.card-body .card-info h3 {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    margin: 0px 0px 0px 24px;
+}
+
+.card-body .card-info p {
+    width: 294px;
+    height: 36px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #666666;
+    margin: 16px 0px 16px 24px;
+}
+
+.card-details {
+    width: 100%;
+}
+
+.card-details h3 {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 16px 0px 8px 24px;
+}
+
+.card-details .card-tags-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 8px 0px 0px 24px;
+}
+
+.card-details .card-tags-buttons button {
+    border-radius: 100px;
+    border: 1px solid #3c3c43;
+    padding: 8px 12px 8px 12px;
+    font-size: 12px;
+    color: #3c3c43;
+    background-color: white;
+}
+
+.card-button {
+    margin: 16px 0px 0px 24px;
+    background-color: #3c3c43;
+    color: white;
+    padding: 8px 16px 8px 16px;
+    border-radius: 12px;
+    gap: 10px;
+}
